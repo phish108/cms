@@ -24,5 +24,8 @@
   "homepage": "https://github.com/phish108/cms#readme",
   "dependencies": {
     "minimist": "^1.2.0"
+  },
+  "bin": {
+    "jcms": "./index.js"
   }
 }

@@ -9,19 +9,19 @@ The tool create stubs for
 The general Synopsis is: 
 
 ```
-npx @phish108/cms [page_type] "title of page"
+npx -p @phish108/cms jcms [page_type] "title of page"
 ```
 
 To create a page
 
 ```
-npx @phish/cms page "hello world"
+npx -p @phish108/cms jcms  page "hello world"
 ```
 
 To create a post in _posts
 
 ```
-npx @phish/cms post "hello world"
+npx -p @phish108/cms jcms post "hello world"
 ```
 
 The difference between `post` and other page types is that `post` will add a date and other meta-data for blogging. 
