@@ -1,0 +1,28 @@
+{
+  "name": "@phish108/cms",
+  "version": "1.0.0",
+  "description": "A little jekyll tool for creating pages and blog posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phish108/cms.git"
+  },
+  "keywords": [
+    "jekyll",
+    "tool",
+    "helper",
+    "blog"
+  ],
+  "author": "phish108",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phish108/cms/issues"
+  },
+  "homepage": "https://github.com/phish108/cms#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
