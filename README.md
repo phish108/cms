@@ -9,19 +9,19 @@ The tool create stubs for pages and blog posts on gh-pages. I created this tool 
 The general Synopsis is: 
 
 ```
-npx -p @phish108/cms cms [page_type] "title of page"
+npx @phish108/cms [page_type] "title of page"
 ```
 
 To create a page
 
 ```
-npx -p @phish108/cms cms page "hello world"
+npx @phish108/cms page "hello world"
 ```
 
 To create a post in _posts
 
 ```
-npx -p @phish108/cms cms post "hello world"
+npx @phish108/cms post "hello world"
 ```
 
 The difference between `post` and other page types is that `post` will add a date and blog-post related meta-data to the header.
