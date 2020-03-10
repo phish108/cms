@@ -26,6 +26,6 @@
     "minimist": "^1.2.0"
   },
   "bin": {
-    "jcms": "./index.js"
+    "cms": "./index.js"
   }
 }
