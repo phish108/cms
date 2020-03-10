@@ -1,6 +1,6 @@
 {
   "name": "@phish108/cms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little jekyll tool for creating pages and blog posts",
   "main": "index.js",
   "scripts": {
